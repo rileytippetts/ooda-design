@@ -5,5 +5,12 @@
  */
 
 module.exports = {
-  /* Your site config here */
+    siteMetadata: {
+        title: `OODA Design`,
+        // siteUrl: `https://www.gatsbyjs.org`,
+        // description: ``,
+      }
+    plugins: [
+      `gatsby-plugin-styled-components`
+    ]
 }
