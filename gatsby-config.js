@@ -9,7 +9,7 @@ module.exports = {
         title: `OODA Design`,
         // siteUrl: `https://www.gatsbyjs.org`,
         // description: ``,
-      }
+      },
     plugins: [
       `gatsby-plugin-styled-components`
     ]
